@@ -24,9 +24,9 @@ myForm.addEventListener('submit',function(e){
         recovered.innerHTML = ''
         deaths.innerHTML = ''
 
-        confirmed.append("Total Confirmed Cases:" + res[index].Confirmed)
-        recovered.append("Total Recovered:" + res[index].Recovered)
-        deaths.append("Total Deaths:" + res[index].Deaths)
+        confirmed.append("Total Confirmed Cases: " + res[index].Confirmed)
+        recovered.append("Total Recovered: " + res[index].Recovered)
+        deaths.append("Total Deaths: " + res[index].Deaths)
 
     })
 

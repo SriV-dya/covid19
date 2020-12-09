@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body{
+    background-image: url("https://images.wallpapersden.com/image/download/new-virus_bGVnbWqUmZqaraWkpJRma2VlrW5lZQ.jpg");
+    color: white;
+    font-size: xx-large;
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+
+}
+
+input{
+    width: 50%;
+    padding: 12px 20px;
+    margin:8px 0;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+
